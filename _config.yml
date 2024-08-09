@@ -242,7 +242,7 @@ defaults:
       comments: true
   # _research
   - scope:
-      path: ""
+      path: "https://arianagamero11.github.io/research/"
       type: publications
     values:
       layout: single
