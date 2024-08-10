@@ -7,13 +7,7 @@ venue: "Columbia University, Department of Economics"
 date: 2024-01-18
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I assisted Professor Irasema Alonso with the Intermediate Macroeconomics core class. The main topics we covered were: Solow Growth, IS-LM, Real Business Cycles, and Keynesian/Classical money demand. 
 
-Heading 1
-======
+[Syllabus]()
 
-Heading 2
-======
-
-Heading 3
-======
