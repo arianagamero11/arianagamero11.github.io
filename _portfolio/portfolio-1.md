@@ -1,7 +1,9 @@
 ---
-title: "Sanford S. Parker PRice"
+title: "Sanford S. Parker Price"
 excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+"The Parker Prize is awarded to a Columbia College senior going on to graduate study in economics who shows promise of doing original work and has already demonstrated boldness of thought and a commitment to excellence, whose interests are wide, heart kind, and spirit generous."
+
+[Economics Departamental Honors - 2024](https://econ.columbia.edu/departmental-honors-and-prize-recipients-of-the-class-of-2024/)
