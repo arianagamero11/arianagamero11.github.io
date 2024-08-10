@@ -15,5 +15,5 @@ author_profile: true
 “When Banks Hit the Ceiling: The Effects of Interest Rate Caps on Microcredit Provision in Colombia.” Ariana Gamero. Columbia Economics Review. (2024)
 
 
-## Works in progress
+## Working papers
 "Measuring inflation persistence in the US through an FCVAR approach." Ricardo Quineche & Ariana Gamero. (2024)
