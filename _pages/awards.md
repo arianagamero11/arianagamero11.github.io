@@ -14,4 +14,4 @@ author_profile: true
 
 I was awarded the Kaneda Prize for an Outstanding Young Economist at the 23rd Carroll Round Conference. The Kaneda prize is the top award given at the conference, awarded for the quality of the paper, participation, and presentation. Carroll Round is an nnnual international economics conference for research and discussion among 30-40 of the world's top undergraduates, hosted at Georgetown University. Est. 2001.
 
-[Award](08f9de94-1179-4cf2-8ec9-8666e160cba2.JPG)
+[Award](IMG_6273 2.jpg)
