@@ -6,14 +6,8 @@ permalink: /teaching/2022-spring-ta
 venue: "Columbia University, Department of Statistics"
 date: 2022-01-21
 ---
+I assisted Professor Joyce Robins with the Calculus-Based Introduction to Statistics core class. The main topics we covered were: Solow Growth, IS-LM, Real Business Cycles, and Keynesian/Classical money demand. I mainly assisted prof. Robins in crafting problem sets and exercises using R. 
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Syllabus]()
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Some exercises from problem sets I wrote]()
