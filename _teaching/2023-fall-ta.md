@@ -7,14 +7,7 @@ venue: "Columbia University, Department of Economics"
 date: 2023-09-03
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I assisted Professor Xavier Sala-I-Martin the Intermediate Macroeconomics core class for the second year in a row. The main models we covered were: Solow Growth, IS-LM, Real Business Cycles, and Keynesian/Classical money demand. I held weekly office hours and recitations, graded assignments and provided ideas for exercises in problem sets.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
-
+[2023 fall TA evaluation]()
