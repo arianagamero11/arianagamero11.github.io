@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
+[Resume](PhD_CV_ArianaGameroR.pdf)
