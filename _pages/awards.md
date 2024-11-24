@@ -7,7 +7,7 @@ author_profile: true
 ## First Place - New York State Economics Association Undergraduate Paper Competition
 "I was chosen among all undergraduates participating in the conference for my presentation and the standard of my paper."
 
-[New York State Economics Association](https://www.nyseconomicsassociation.org/))
+[New York State Economics Association](https://www.nyseconomicsassociation.org/)
 
 ## Sanford S. Parker Price
 "The Parker Prize is awarded to a Columbia College senior going on to graduate study in economics who shows promise of doing original work and has already demonstrated boldness of thought and a commitment to excellence, whose interests are wide, heart kind, and spirit generous."
